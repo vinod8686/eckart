@@ -1,0 +1,24 @@
+.header{
+   background-color:  #f8f9fa;
+}
+.header .nav-link{
+    font-size: 18px;
+}
+.header .header-home .nav-link:hover {
+    color: #007bff;
+}
+
+.header .header-home .nav-link {
+    color: #676868;
+}
+.header .header-home .nav{
+    flex-wrap: nowrap;
+}
+.header .header-login .nav-link {
+    color: #1898b8;
+
+}
+
+.header .header-login .nav-link:hover {
+    color: #676868;
+}
